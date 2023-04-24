@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and data science (and maybe some blockchanin tech)
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on awesome projects
-- 📫 How to reach me dev.minaeskandar@gmail.com
+- 📫 How to reach me minaeskandar@duck.com
 
 
 
