@@ -6,13 +6,13 @@
 
 # Projects I am proud about:
 
-## AI therapist (frontend) : [link](https://minarashad.github.io/AI-therapist/)
+## AI therapist (frontend) [link](https://minarashad.github.io/AI-therapist/)
 - A smart journal that tries to make you feel better
 
-Sudoku Solver : https://github.com/MinaRashad/sudoku-solver
+## Sudoku Solver [link](https://github.com/MinaRashad/sudoku-solver) 
 - a nice simple UI to play sudoku and it can auto-solve it!
   
-My indie game that got 1st place in originality: https://minachn.itch.io/unrelated
+## My indie game that got 1st place in originality [link](https://minachn.itch.io/unrelated) 
 - I am rebuilding the game from scratch to work on a better game mechanic
 
 <!---
