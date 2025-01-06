@@ -12,8 +12,9 @@
 ## Sudoku Solver ([link](https://github.com/MinaRashad/sudoku-solver)) 
 - a nice simple UI to play sudoku and it can auto-solve it!
   
-## My indie game that got 1st place in originality ([link](https://minachn.itch.io/unrelated)) 
+<!-- ## My indie game that got 1st place in originality ([link](https://minachn.itch.io/unrelated)) 
 - I am rebuilding the game from scratch to work on a better game mechanic
+-->
 
 <!---
 MinaRashad/MinaRashad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
