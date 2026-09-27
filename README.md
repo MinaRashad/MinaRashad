@@ -41,13 +41,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minarashad/minarashad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minarashad/minarashad/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minarashad/minarashad/output/pacman-contribution-graph.svg">
-</picture>
+![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
 
-###
+<!--###
 
 ###
 # Projects I am proud about:
@@ -61,7 +57,7 @@
 ## Check this out ([link](https://minarashad.github.io/web_system/))
 - Some assimilation of random projects I did for fun with no particular purpose
   
-<!-- ## My indie game that got 1st place in originality ([link](https://minachn.itch.io/unrelated)) 
+ ## My indie game that got 1st place in originality ([link](https://minachn.itch.io/unrelated)) 
 - I am rebuilding the game from scratch to work on a better game mechanic
 -->
 
