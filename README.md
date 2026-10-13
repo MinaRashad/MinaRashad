@@ -27,9 +27,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/mina-eskandar-35418a171/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
-  <a href="https://me.minaeskandar.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Personal&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal logo"  />
-  </a>
+<br>
+  <a href="https://me.minaeskandar.com" target="_blank"> <img src="./assets/banner.gif" width="264" alt="Mina's web"> </a>
 </div>
 
 ###
